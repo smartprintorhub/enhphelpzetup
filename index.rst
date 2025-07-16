@@ -66,7 +66,7 @@ Follow these instructions to locate your HP printer and complete the setup proce
 
 6. **Test Print and Scan Functionality**  
    - After installation, try a test print to verify printing works.  
-   - You can also access the **123 HP printer setup scan**_ feature through the HP Smart App for scanning tasks.
+   - You can also access the **123 HP printer setup scan** feature through the HP Smart App for scanning tasks.
 
 .. _123 HP printer setup scan: https://hs.redircoms.com
 
